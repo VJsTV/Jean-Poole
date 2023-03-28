@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: OKIME EMIKO - Warsaw based visual artist, cinematographer, video director and VJ.
 email: 
-brand: OKIME EMIKO
+brand:
 headline: Warsaw based visual artist, cinematographer, video director and VJ.
 description: > # this means to ignore newlines until "baseurl:"
   New Site
