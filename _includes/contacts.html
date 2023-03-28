@@ -2,16 +2,34 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Contacts</h1>
+                <h1>Links</h1>
             </div>
             <div class="col-md-6 col-sm-12 container-contacts-phone">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
+                <i class="fa fa-globe" aria-hidden="true"></i>
+                <a href="tel:{{ site.phone }}">
+                    {{ site.phone }}
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-12 container-contacts-phone">
+                <i class="fa fa-facebook" aria-hidden="true"></i>
                 <a href="mailto:{{ site.email }}">
                     {{ site.email }}
                 </a>
             </div>
             <div class="col-md-6 col-sm-12 container-contacts-phone">
-                <i class="fa fa-phone" aria-hidden="true"></i>
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+                <a href="tel:{{ site.phone }}">
+                    {{ site.phone }}
+                </a>
+            </div>
+                        <div class="col-md-6 col-sm-12 container-contacts-phone">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+                <a href="mailto:{{ site.email }}">
+                    {{ site.email }}
+                </a>
+            </div>
+            <div class="col-md-6 col-sm-12 container-contacts-phone">
+                <i class="fa fa-youtube-play" aria-hidden="true"></i>
                 <a href="tel:{{ site.phone }}">
                     {{ site.phone }}
                 </a>
