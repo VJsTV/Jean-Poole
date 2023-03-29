@@ -1,9 +1,9 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Jean Poole is a Melbourne based video artist, specialising in event-based real-time video manipulation.
+title: Jean Poole is a Melbourne based video artist.
 email: 
 brand:
-headline: Jean Poole is a Melbourne based video artist, specialising in event-based real-time video manipulation.
+headline: Jean Poole is a Melbourne based video artist.
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
