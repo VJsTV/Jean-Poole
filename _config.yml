@@ -1,13 +1,13 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: OKIME EMIKO - Warsaw based visual artist, cinematographer, video director and VJ.
+title: Jean Poole is a Melbourne based video artist, specialising in event-based real-time video manipulation.
 email: 
 brand:
-headline: Warsaw based visual artist, cinematographer, video director and VJ.
+headline: Jean Poole is a Melbourne based video artist, specialising in event-based real-time video manipulation.
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://emiliagumanska.com" # the base hostname & protocol for your site
+url: "https://www.skynoise.net" # the base hostname & protocol for your site
 copyright: 
 
 # Build settings
@@ -17,11 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-Website: https://emiliagumanska.com/vj/
-Facebook: https://www.facebook.com/emikovj
-Twitter: 
-Youtube: https://www.youtube.com/@vjemiko/featured
-Instagram: https://www.instagram.com/emiko__okime/
+Website: 
+
 
 # Tracking
 googleAnalitycsID: 
